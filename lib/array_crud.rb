@@ -53,6 +53,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   update_element_from_index = array
-  update_element_from_index[0] = "hey"
+  update_element_from_index[0] = "totally"
 
 end
